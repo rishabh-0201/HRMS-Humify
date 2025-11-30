@@ -1,0 +1,605 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HRMS\\HRMS.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\data\\hrmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:data\\hrmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\migrations\\20251129174307_added designation master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:migrations\\20251129174307_added designation master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\migrations\\20251129110031_added department master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:migrations\\20251129110031_added department master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\dtos\\designationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:dtos\\designationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\migrations\\hrmsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:migrations\\hrmsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\migrations\\20251129170254_removing departmentid as primary key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:migrations\\20251129170254_removing departmentid as primary key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\migrations\\20251129073615_models - company, menu, permission, role, rolemenumapping, rolepermissionmapping, user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:migrations\\20251129073615_models - company, menu, permission, role, rolemenumapping, rolepermissionmapping, user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\models\\rolepermissionmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:models\\rolepermissionmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\models\\rolemenumapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:models\\rolemenumapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\hrms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:hrms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\dtos\\registercompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:dtos\\registercompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\migrations\\20251129102850_added employeeid in usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:migrations\\20251129102850_added employeeid in usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|e:\\hrms\\hrms.api\\migrations\\20251129190226_added country state city master and their relationship and restrict delete behaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B752996-0C98-4060-A683-10D77308BFEC}|HRMS.Api.csproj|solutionrelative:migrations\\20251129190226_added country state city master and their relationship and restrict delete behaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Controllers\\CityController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:58:23.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StateController.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Controllers\\StateController.cs",
+              "RelativeToolTip": "Controllers\\StateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:56:23.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Controllers\\CountryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:54:30.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20251129190226_Added Country State City Master And Their Relationship And Restrict Delete Behaviour.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Migrations\\20251129190226_Added Country State City Master And Their Relationship And Restrict Delete Behaviour.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251129190226_Added Country State City Master And Their Relationship And Restrict Delete Behaviour.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Migrations\\20251129190226_Added Country State City Master And Their Relationship And Restrict Delete Behaviour.cs",
+              "RelativeToolTip": "Migrations\\20251129190226_Added Country State City Master And Their Relationship And Restrict Delete Behaviour.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:02:26.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "City.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Models\\City.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Models\\City.cs",
+              "RelativeToolTip": "Models\\City.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:57:55.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "State.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Models\\State.cs",
+              "RelativeDocumentMoniker": "Models\\State.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Models\\State.cs",
+              "RelativeToolTip": "Models\\State.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:57:21.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Country.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Models\\Country.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Models\\Country.cs",
+              "RelativeToolTip": "Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:56:46.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DesignationController.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Controllers\\DesignationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DesignationController.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Controllers\\DesignationController.cs",
+              "RelativeToolTip": "Controllers\\DesignationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:36:41.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:56:29.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HRMSDbContext.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Data\\HRMSDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\HRMSDbContext.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Data\\HRMSDbContext.cs",
+              "RelativeToolTip": "Data\\HRMSDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:45:45.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251129174307_Added Designation Master.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Migrations\\20251129174307_Added Designation Master.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251129174307_Added Designation Master.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Migrations\\20251129174307_Added Designation Master.cs",
+              "RelativeToolTip": "Migrations\\20251129174307_Added Designation Master.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:43:07.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251129110031_Added Department Master.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Migrations\\20251129110031_Added Department Master.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251129110031_Added Department Master.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Migrations\\20251129110031_Added Department Master.cs",
+              "RelativeToolTip": "Migrations\\20251129110031_Added Department Master.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:00:32.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Designation.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Models\\Designation.cs",
+              "RelativeDocumentMoniker": "Models\\Designation.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Models\\Designation.cs",
+              "RelativeToolTip": "Models\\Designation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:33:41.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DesignationDto.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\DTOs\\DesignationDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DesignationDto.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\DTOs\\DesignationDto.cs",
+              "RelativeToolTip": "DTOs\\DesignationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:34:38.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:35:23.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:48:48.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:16:02.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\DTOs\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DepartmentDto.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\DTOs\\DepartmentDto.cs",
+              "RelativeToolTip": "DTOs\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:52:44.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:55:20.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:32:52.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HRMSDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Migrations\\HRMSDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\HRMSDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Migrations\\HRMSDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\HRMSDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:26:03.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251129170254_Removing DepartmentId As Primary Key.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Migrations\\20251129170254_Removing DepartmentId As Primary Key.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251129170254_Removing DepartmentId As Primary Key.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Migrations\\20251129170254_Removing DepartmentId As Primary Key.cs",
+              "RelativeToolTip": "Migrations\\20251129170254_Removing DepartmentId As Primary Key.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:02:57.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Helpers\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\PasswordHelper.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Helpers\\PasswordHelper.cs",
+              "RelativeToolTip": "Helpers\\PasswordHelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:55:25.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20251129102850_Added EmployeeId in UserMaster.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Migrations\\20251129102850_Added EmployeeId in UserMaster.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251129102850_Added EmployeeId in UserMaster.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Migrations\\20251129102850_Added EmployeeId in UserMaster.cs",
+              "RelativeToolTip": "Migrations\\20251129102850_Added EmployeeId in UserMaster.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:28:50.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:13:00.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "Models\\Menu.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Models\\Menu.cs",
+              "RelativeToolTip": "Models\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:44:36.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:49:22.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20251129073615_Models - Company, Menu, Permission, Role, RoleMenuMapping, RolePermissionMapping, User.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Migrations\\20251129073615_Models - Company, Menu, Permission, Role, RoleMenuMapping, RolePermissionMapping, User.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251129073615_Models - Company, Menu, Permission, Role, RoleMenuMapping, RolePermissionMapping, User.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Migrations\\20251129073615_Models - Company, Menu, Permission, Role, RoleMenuMapping, RolePermissionMapping, User.cs",
+              "RelativeToolTip": "Migrations\\20251129073615_Models - Company, Menu, Permission, Role, RoleMenuMapping, RolePermissionMapping, User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T07:36:16.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RolePermissionMapping.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Models\\RolePermissionMapping.cs",
+              "RelativeDocumentMoniker": "Models\\RolePermissionMapping.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Models\\RolePermissionMapping.cs",
+              "RelativeToolTip": "Models\\RolePermissionMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:54:00.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvwoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:12:06.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Models\\Permission.cs",
+              "RelativeDocumentMoniker": "Models\\Permission.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Models\\Permission.cs",
+              "RelativeToolTip": "Models\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:51:05.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RoleMenuMapping.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\Models\\RoleMenuMapping.cs",
+              "RelativeDocumentMoniker": "Models\\RoleMenuMapping.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\Models\\RoleMenuMapping.cs",
+              "RelativeToolTip": "Models\\RoleMenuMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:49:34.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T17:48:33.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HRMS.Api.csproj",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\HRMS.Api.csproj",
+              "RelativeDocumentMoniker": "HRMS.Api.csproj",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\HRMS.Api.csproj",
+              "RelativeToolTip": "HRMS.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T17:05:05.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterCompanyDto.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\DTOs\\RegisterCompanyDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterCompanyDto.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\DTOs\\RegisterCompanyDto.cs",
+              "RelativeToolTip": "DTOs\\RegisterCompanyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:33:14.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "E:\\HRMS\\HRMS.Api\\DTOs\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserResponseDto.cs",
+              "ToolTip": "E:\\HRMS\\HRMS.Api\\DTOs\\UserResponseDto.cs",
+              "RelativeToolTip": "DTOs\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:40:11.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
