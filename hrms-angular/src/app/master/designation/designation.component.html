@@ -1,0 +1,48 @@
+<div class="page-header">
+  <h2 class="page-title">Designation Master</h2>
+
+  <button class="create-btn" (click)="openCreate()">
+    + Create Designation
+  </button>
+</div>
+
+<div class="card-container">
+  <dx-data-grid
+    [dataSource]="designations"
+    [showBorders]="false"
+    [hoverStateEnabled]="true"
+    [columnAutoWidth]="true"
+    class="styled-grid">
+
+    <dxo-editing mode="popup" [allowUpdating]="false" [allowDeleting]="false"></dxo-editing>
+
+    <dxi-column dataField="designationId" caption="ID" width="80"></dxi-column>
+    <dxi-column dataField="designationName" caption="Designation"></dxi-column>
+    <dxi-column dataField="createdOn" caption="Created On" dataType="date"></dxi-column>
+
+    <dxi-column type="buttons" caption="Actions" [width]="160">
+      <dxi-button hint="Edit" icon="edit" [onClick]="onEditClick"></dxi-button>
+      <dxi-button hint="Delete" icon="trash" [onClick]="onDeleteClick"></dxi-button>
+    </dxi-column>
+  </dx-data-grid>
+</div>
+
+<!-- Popup -->
+<dx-popup
+  [(visible)]="popupVisible"
+  [width]="420"
+  [height]="300"
+  [showTitle]="true"
+  [title]="popupMode === 'create' ? 'Create Designation' : 'Edit Designation'"
+  [dragEnabled]="true"
+  [closeOnOutsideClick]="true"
+  class="custom-popup">
+
+  <div class="popup-body">
+    <dx-form [formData]="formData"> 
+      <dxi-item dataField="designationName" [isRequired]="true" label="Designation Name"></dxi-item>
+    </dx-form>
+
+    <button class="save-btn" (click)="save()">Save</button>
+  </div>
+</dx-popup>
